@@ -50,7 +50,7 @@ with c1:
 
 with c2:
     # Imagen meter la pata
-    meter_la_pata = Image.open('Fotos\meter_la_pata_codif.jpg')
+    meter_la_pata = Image.open('Fotos/meter_la_pata_codif.jpg')
     st.image(meter_la_pata, width=400)
 
     st.markdown("""
